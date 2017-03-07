@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MozillaTN ClubName blog
+title: KCG campus Club
 navigation_title: Blog
 permalink: /blog/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
@@ -8,3 +8,4 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 
 
 {% include blog-post-list.html %}
+
