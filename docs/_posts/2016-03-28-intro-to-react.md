@@ -2,25 +2,18 @@
 layout: post
 
 #event information
-title:  "ReactJS"
+title:  "Web Extensions"
 cover: "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
-date:   2016-03-28
-start_time: "12:00"
-end_time: "13:00"
+date:   2017-03-18
+start_time: "9:00am"
+end_time: "6:00pm"
 
 #event organiser details
-organiser: "Prasanth P"
+organiser: "KCG campus club"
 
 categories: event
 
 ---
 
-I will be doing a small talk on an Introduction into ReactJS. We will cover the following:
-
-- What is React?
-- How to get setup with React.
-- How to get building React Apps.
-- Bundle your application
-- Release your application
-
-If this sounds interesting please register your interest below.
+WebExtensions are a cross-browser system for developing browser 	add-ons. We intend to extend the APIs which are compatible with 	Google Chrome and Opera to make it compatible with Mozilla 	also.
+Lets make browsers more user friendly.
