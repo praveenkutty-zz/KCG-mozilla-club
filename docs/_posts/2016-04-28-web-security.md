@@ -2,20 +2,17 @@
 layout: post
 
 #event information
-title:  "Web Security"
+title:  "Web VR"
 cover: "../assets/2017/web-secuirty.jpg"
-date:   2016-04-03
-start_time: "10:00"
-end_time: "17:00"
+date:   2017-03-18
+start_time: "9:00am"
+end_time: "6pm"
 
 #event organiser details
-organiser: "Nagaraj V"
+organiser: "KCG Campus Club"
 
 categories: event
 
 ---
 
-Its very important that we keep up to date with web security. This talk will be a 7 hour introduction into the latest techniques about web security
-and how we can keep our data safe across Mobiles, Desktops and Tablets.
-
-Let me know if you would like to attend.
+WebVR provides support for exposing virtual reality to web apps, 	enabling developers to translate position and movement 	information from the display into movement around a 3D scene.
