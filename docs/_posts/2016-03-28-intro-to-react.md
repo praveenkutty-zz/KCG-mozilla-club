@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Web Extensions"
-cover: "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
+cover: "../assets/2017/angular.jpg"
 date:   2017-03-18
 start_time: "9:00am"
 end_time: "6:00pm"
