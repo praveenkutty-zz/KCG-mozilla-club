@@ -16,3 +16,6 @@ categories: event
 ---
 
 WebVR provides support for exposing virtual reality to web apps, 	enabling developers to translate position and movement 	information from the display into movement around a 3D scene.
+
+For More Info 
+[click here](https://drive.google.com/file/d/0BxFFkwTCdaWAYmw2Y0NwOXhkS0U/view?usp=sharing)
