@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Web Extensions"
-cover: "../assets/2017/angular.jpg"
+cover:"KCG-campus-Club/docs/assets/webextension.jpg"
 date:   2017-03-18
 start_time: "9:00am"
 end_time: "6:00pm"
