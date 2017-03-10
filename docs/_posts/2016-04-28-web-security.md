@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Web VR"
-cover: "../assets/2017/web-secuirty.jpg"
+cover: "../assets/2017/webvr.jpg"
 date:   2017-03-18
 start_time: "9:00am"
 end_time: "6pm"
