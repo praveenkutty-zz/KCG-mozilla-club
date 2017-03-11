@@ -7,4 +7,4 @@ button: true
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
-{% include past-event-list.html %}
+{% include present-event-list.html %}
